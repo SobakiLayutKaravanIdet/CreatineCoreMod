@@ -1,0 +1,7 @@
+NEW_LOCALISATION;!!!!!!!!!!!;;;;x
+TRUE_EXIT;Restart Game;Quitter;Beenden;Wyjœcie;Salir;Uscire;Kilépés;Konec;;;;;;x;;;;
+PRODUCTION_HIDE_COLONIAL_STATES;Show/hide colonies;X
+MINTING_TITLE;Minting income;X
+BUDGET_MINTING_DESC;Income from minting coins;x
+BUDGET_MINTING;Minting: $VAL$;x
+MOVE_POP_AMOUNT_EFFECT;Move $AMOUNT$ of Pops to §Y$WHERE$§W.\n;X
