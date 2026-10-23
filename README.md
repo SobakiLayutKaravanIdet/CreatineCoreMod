@@ -39,7 +39,7 @@ Credits:
 balticšprott - Creator of CreatineCore Modding Extension (ex.V2DLL)
 
 maxioten - Patch-author and creator of Unofficial Patch 3.05 
-$COUNTRY_ADJ$ - mod-maker
+COUNTRY_ADJ - mod-maker
 
 Check for fresh updates of CreatineCore Modding Extension and visit the creator
 https://github.com/artyom-kuznetsov/V2DLL_Victoria-2-Extension
