@@ -1,0 +1,7 @@
+Unpack all contents of the "\CreatineCore Mod Version (Main\Standalone)" into the main game directory and overwrite all files.
+
+Patch details and descriptions are provided in PatchesList(version).txt
+
+You can configure and toggle individual patches on or off via creatinecore_settings.ini, located in the z_CreatineCore folder inside the main game directory for Main Version and mod\CreatineCore Mod\creatinecore_settings.ini for Standalone version
+
+Defines for some patches could be found in common\ (creates automatically after first start) or mod\CreatineCore Mod\common folders in defines_ccore.txt
